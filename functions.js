@@ -12,7 +12,6 @@ function list(clients) {
   
   }
   
-  
   function order(clients, property) {
   
     return clients.sort((a, b) => {
